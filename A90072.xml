@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from Black-heath concerning the meeting of the Kentish men upon the nine and twentieth of Aprill, about some great and weighty affairs, now in agitation. With many other passages worthy of note and observation. Whereunto is added, more newes from Yorke, brought to London Aprill the 20. concerning some passages which happened there on the 16. of Aprill, 1642. As also the severall votes and resolutions of both Houses of Parliament, concerning the kings late message.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90072</idno><idno type="EEBO-CITATION">99858965</idno>
+  <idno type="VID">156623</idno>
+  <idno type="EEBO-PROQUEST">2240884038</idno>
+  
+            <idno type="STC">Wing N949</idno>
+            <idno type="STC">Thomason E144_13</idno>
+            <idno type="STC">ESTC R11243</idno>
+            <idno type="PROQUEST">99858965</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99858965e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90072)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156623)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from Black-heath concerning the meeting of the Kentish men upon the nine and twentieth of Aprill, about some great and weighty affairs, now in agitation. With many other passages worthy of note and observation. Whereunto is added, more newes from Yorke, brought to London Aprill the 20. concerning some passages which happened there on the 16. of Aprill, 1642. As also the severall votes and resolutions of both Houses of Parliament, concerning the kings late message.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henrie Andrews,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Kent (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156623:1"/>
+            <p>NEWES FROM BLACK-HEATH <hi>CONCERNING</hi> The meeting of the Kentish men upon the nine and twentieth of Aprill, about some great and weighty Affairs, now in Agitation.</p>
+            <p>With many other Passages worthy of Note <hi>and Observation.</hi>
+            </p>
+            <p>Whereunto is added, More Newes from <hi>Yorke,</hi> brought to <hi>London</hi> Aprill the 20. concerning some Passages which happened there on the 16. of Aprill, 1642.</p>
+            <p>As also the severall Votes and Resolutions of both Houses of Parliament, concerning the Kings late Message.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Henrie Andrews.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="news">
+            <pb facs="tcp:156623:2"/>
+            <pb facs="tcp:156623:2"/>
+            <head>NEVVES FROM <hi>BLACK-HEATH.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon <hi>Munday</hi> last, be<g ref="char:EOLhyphen"/>ing the 18. day of <hi>April,</hi> 1642. two men of great esti<g ref="char:EOLhyphen"/>mation, in the County of <hi>Kent,</hi> one of them by Name, Mr. <hi>Samuel Gray;</hi> the other M. <hi>Nicholas Robinson:</hi> meeting at <hi>Black-Heath,</hi> falling into Discourse of the af<g ref="char:EOLhyphen"/>fairs of the said County of <hi>KENT,</hi>
+               <pb facs="tcp:156623:3"/> amongst other Passages, they spake of some great Multitudes that were t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> meet at the said <hi>Black-Heath</hi> in the County of <hi>Kent,</hi> on the 29. Day of <hi>A<g ref="char:EOLhyphen"/>pril,</hi> about 9. of the clock in the mor<g ref="char:EOLhyphen"/>ning, next ensuing, about 9 of the clock at the furthest.</p>
+            <p>But to what intent, this meeting should be is not as yet known. It was supposed by them, concerning a Petiti<g ref="char:EOLhyphen"/>on of theirs, which is to be accompanied by them to the honourable House of Parliament, there to be delivered.</p>
+            <p>Likewis they had divers others such like Consultations, concerning some particular matters of high consequence. in the said Petition. As concerning a speedy remedy, that might be taken, for the furher reliefe of our distressed bre<g ref="char:EOLhyphen"/>thren in Ireland, and for all other such like necessities, as may be for the good and profitable benefit of this whole Kingdome.</p>
+            <p>Againe, they had also some discourse
+<pb facs="tcp:156623:3"/> of some requests, of the said Petition concerning Church Government. And Order to be taken for the better <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ettle<g ref="char:EOLhyphen"/>ing of the same.</p>
+            <p>And also of some desires that Lawes might be executed on all Papists, or Recusants; and that they might be all disarmed, and punished, according to the Laws of this Realm.</p>
+            <p>With some Discourse about the set<g ref="char:EOLhyphen"/>ling of the <hi>Militia</hi> in this Kingdome of <hi>England.</hi>
+            </p>
+            <p>Also some particulars, that some way might be taken for a supply of Cloa<g ref="char:EOLhyphen"/>thing: wherby many thousands might be fed.</p>
+            <p>So that I might say much more of their Discourses they had concerning home-bred Injuries, and divers Fears, and Jealousies amongst Subjects of this Kingdome. The which Kingdome, the Lord protect and prosper, from all pe<g ref="char:EOLhyphen"/>rils and dangers that shall come here<g ref="char:EOLhyphen"/>after.</p>
+         </div>
+         <div type="news">
+            <pb facs="tcp:156623:4"/>
+            <head>NEW <hi>NEWES FROM</hi> YORK.</head>
+            <p>VPon the 16 day of <hi>April.</hi> 1642. In the City of <hi>Yorke</hi> were some twenty men drinking at the <hi>George</hi> in <hi>York</hi> and staying long, began to be much in drink, who being not able to stir by reason of their drun<g ref="char:EOLhyphen"/>kennesse fell into many discourses. And among other things som fell to rejoicing that the King was there, others wishing him at London, with his Parliament. Vpon which not well agreeing, they fell to blowes, some with kniues, some with swords, and staues, so that the City was in an vp<g ref="char:EOLhyphen"/>rote, and none knowing what they fell out for; one holding one thing, another wishing ano<g ref="char:EOLhyphen"/>ther thing, so that they were faine to be appea<g ref="char:EOLhyphen"/>sed by the Magistrats of the City.</p>
+         </div>
+         <div type="Parliamentary_declaration">
+            <pb facs="tcp:156623:4"/>
+            <head>A DECLARATION <hi>OF</hi> Both Houses of Parliament, concer<g ref="char:EOLhyphen"/>ning the establishing of Church-Govern<g ref="char:EOLhyphen"/>ment, throughout the whole Kingdome of <hi>England.</hi>
+            </head>
+            <p>THe Lords and Commons do declare, That they intend a due and necessary Reformation of the Government and Liturgie of the Church, and to take away no<g ref="char:EOLhyphen"/>thing in the one or the other, but what shall be evill, and justly offensive, or at least unnecessary and burthensome: And for the better effecting therof, speedily to have consultation with Godly and Learned Divines. And because this will ne<g ref="char:EOLhyphen"/>ver of it self attain the end sought therein, they will therfore use their utmost endeavors to e<g ref="char:EOLhyphen"/>stablish Larned and Preaching Ministers, with good and sufficient maintenance throughout the whole Kingdome, wherin many dark Cor<g ref="char:EOLhyphen"/>ners are miserably destitute of the means of Sal<g ref="char:EOLhyphen"/>vation, and many poor Ministers want necessary provision.</p>
+            <closer>
+               <signed>
+                  <hi>He<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Elsyng. Cler. Par. D. Com.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_resolutions">
+            <pb facs="tcp:156623:5"/>
+            <head>
+               <hi>The severall Votes and Resolutions of</hi> both Houses of Parliament, concerning the Kings late Message.</head>
+            <p>
+               <hi>Resolved upon the Question.</hi>
+            </p>
+            <p>THat this House shall insist upon their former Votes concerning the <hi>Militia.</hi>
+            </p>
+            <p>
+               <hi>Resolved upon the Question.</hi>
+            </p>
+            <p>That the Kings absence so far remote from his Par<g ref="char:EOLhyphen"/>liament, is not only an obstruct<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, but may be a destru<g ref="char:EOLhyphen"/>ction to the affairs of Ireland.</p>
+            <p>
+               <hi>Resolved upon, &amp;c.</hi>
+            </p>
+            <p>That when the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, which is the supream Court of Judicature in the Kingdom, shall declare what the Laws of the Land is; to have this not only questioned and controverted, but contradicted, and a Command that it should not be o<g ref="char:EOLhyphen"/>beyed, is a high breach of the priviledge of <hi>Parliament.</hi>
+            </p>
+            <p>
+               <hi>Resolved, &amp;c.</hi>
+            </p>
+            <p>That a Committee shall be appointed by tthis House ot ioyn wito a Committee of the Lordes, to enquire where this Message was framed.</p>
+            <p>
+               <hi>Resolved &amp;c.</hi>
+            </p>
+            <p>That those persons that advise his Maiesty to absent himselfe from the Parliament, are enemies to the peace of this Kingdome, and justly to be suspected to be fa<g ref="char:EOLhyphen"/>vourers of the Rebellion in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>Resolved, &amp;c.</hi>
+            </p>
+            <p>That those that advised his Majesty to this Message, are enemies to the peace of this Kingdome, and justly to be suspected to be favourers of the Rebellion in <hi>Ireland.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
